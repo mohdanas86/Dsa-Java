@@ -1,4 +1,4 @@
-package Array;
+package Array.EASY;
 
 import java.util.Arrays;
 import java.util.Vector;

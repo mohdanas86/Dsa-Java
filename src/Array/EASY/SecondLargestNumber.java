@@ -1,4 +1,4 @@
-package Array;
+package Array.EASY;
 
 public class SecondLargestNumber {
 
